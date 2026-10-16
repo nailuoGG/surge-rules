@@ -1,0 +1,20 @@
+{
+  "upstream": "Loyalsoldier/surge-rules",
+  "observedUpstreamRef": "release",
+  "observedUpstreamCommit": "7d59f93c7b01ac07c1f056e4d0b997294fc4e68c",
+  "licenseCommit": "99568decaf4199fdc498cbac499830740fe1eb67",
+  "capturedAt": "2026-10-16T16:19:39.342059+00:00",
+  "updateMode": "manual review only; no automatic upstream merge or workflow",
+  "provenanceNote": "Rule server/CDN bytes were captured separately. The observed source commit does not prove that dynamic server artifacts were built from that commit.",
+  "files": [
+    {
+      "path": "private.txt",
+      "url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/private.txt",
+      "type": "DOMAIN-SET",
+      "status": "ok",
+      "bytes": 2571,
+      "entries": 130,
+      "sha256": "757dd98454fbf8a576a2b5f7a497d4dacffd70fa43ac2b742e663db3788c02f0"
+    }
+  ]
+}
